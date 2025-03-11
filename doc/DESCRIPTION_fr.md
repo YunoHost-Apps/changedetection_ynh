@@ -1,0 +1,1 @@
+Détectez les modifications du contenu du site web et effectuez des actions significatives - déclenchez des notifications via Discord, Email, Slack, Telegram, des appels API et bien d'autres encore.
