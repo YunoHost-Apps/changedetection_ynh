@@ -1,5 +1,5 @@
 [Unit]
-Description=changedetection.io: Web page change detection
+Description=changedetection: Web page change detection
 After=network.target
 
 [Service]
