@@ -7,7 +7,7 @@ name = "changedetection"
 description.en = "Web page change detection, website watcher, restock monitor and notification service"
 description.fr = "Détection des changements de pages web, surveillance des stocks et service de notification"
 
-version = "0.50.2~ynh1"
+version = "0.50.8~ynh1"
 
 maintainers = ["eric_G"]
 
