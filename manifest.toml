@@ -7,7 +7,7 @@ name = "changedetection"
 description.en = "Web page change detection, website watcher, restock monitor and notification service"
 description.fr = "Détection des changements de pages web, surveillance des stocks et service de notification"
 
-version = "0.52.1~ynh1"
+version = "0.52.2~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -39,8 +39,8 @@ ram.runtime = "80M"
 [resources]
     [resources.sources]
     [resources.sources.main]
-    url = "https://github.com/dgtlmoon/changedetection.io/archive/refs/tags/0.52.1.tar.gz"
-    sha256 = "3b7063417197aad95d8588cd5a72a26cebc7333e1d2937d2d2014ad0da0e96c2"
+    url = "https://github.com/dgtlmoon/changedetection.io/archive/refs/tags/0.52.2.tar.gz"
+    sha256 = "501b4319c5ef84d712acba3afd0a0a8e1323df86989273198c638a4524606482"
     autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
