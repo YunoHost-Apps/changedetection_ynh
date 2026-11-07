@@ -14,6 +14,7 @@ pushd $install_dir
 popd
 
 chown -R $app:$app "$install_dir"
+chown -R o-rwx "$data_dir"
 
 #=================================================
 # SYSTEM CONFIGURATION

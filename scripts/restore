@@ -8,6 +8,9 @@ source /usr/share/yunohost/helpers
 ynh_script_progression "Restoring the app main directory..."
 
 ynh_restore "$install_dir"
+ynh_restore "$data_dir"
+
+chown -R o-rwx "$data_dir"
 
 #=================================================
 # RESTORE SYSTEM CONFIGURATIONS
